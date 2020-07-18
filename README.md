@@ -1,3 +1,12 @@
+## E-commerce Website,                                                                      San Jose, CA                                 05/2020 - 06/2020
+-	Implemented a clothing shopping website to allow users to register, sign in, browse items, add items to shopping cart, delete items from shopping cart and check out 
+-	Developed frontend by utilizing ReactJS library to build reusable components, with React features including Redux, Redux Thunk, Redux Saga, Hooks, React Router, ContextAPI, Suspense and React Lazy, like managing internal state using Redux to handle complex data sharing in the app
+- Designed HTML styling using SASS and Styled components to modularize styling of each component
+-	Integrated Firebase’s NoSQL database to store/register user, with Google user-authentication included, and stored cart and purchase information and optimized state persistence 
+-	Integrated credit card payments with Stripe API by leveraging React Stripe Checkout Component libaray in the front end and set up a payment route on backend Express server to enable a secrete key to be passed safely to Stripe service
+-	Practiced using GraphQL with Apollo to replace REST backend server to enhance performance and avoid over fetching data
+-	Deployed the website on Heroku web server (https://crwn-live-jy.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
