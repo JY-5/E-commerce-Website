@@ -1,4 +1,4 @@
-## E-commerce Website,                                                                      San Jose, CA                                 05/2020 - 06/2020
+## E-commerce Website,                                                                                                  05/2020 - 06/2020
 -	Implemented a clothing shopping website to allow users to register, sign in, browse items, add items to shopping cart, delete items from shopping cart and check out 
 -	Developed frontend by utilizing ReactJS library to build reusable components, with React features including Redux, Redux Thunk, Redux Saga, Hooks, React Router, ContextAPI, Suspense and React Lazy, like managing internal state using Redux to handle complex data sharing in the app
 - Designed HTML styling using SASS and Styled components to modularize styling of each component
